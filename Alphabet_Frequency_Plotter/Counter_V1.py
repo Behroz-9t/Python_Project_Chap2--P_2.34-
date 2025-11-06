@@ -27,11 +27,7 @@ class CounterSepartor():
        return list(sorted(self.res1.values()))
 
 
-# c=CounterSepartor(["A","A","A","b","c","C","1","12","a","a","a",])
-# print(c.m_Count())
-# print(c.m_Keys())
-# print(c.m_Values())
-        
+
     
    
 
