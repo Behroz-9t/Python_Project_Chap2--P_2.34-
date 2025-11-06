@@ -48,8 +48,6 @@ To run this project, you need Python and the `matplotlib` library.
 
 ## 📂 Project Structure
 
-
-
 .
 ├── main.py             \# Entry point of the application
 ├── app.py              \# Contains the main App class
