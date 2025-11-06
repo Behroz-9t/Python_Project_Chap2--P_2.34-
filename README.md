@@ -13,7 +13,7 @@ This project is built using object-oriented principles, separating concerns into
 * **File Dialog:** Uses Tkinter to provide a user-friendly window to select a file.
 * **Character Counting:** Parses the text and counts the occurrences of each lowercase alphabet.
 * **Data Visualization:** Automatically generates and displays a bar chart of the results.
-* **OOP Structure:** Demonstrates clear **Inheritance** (`GraphPlotter` inherits from `DocReader`) and **Dependency** (`GraphPlotter` uses `CounterSepartor`).
+* **OOP Structure:** Demonstrates clear **Inheritance** (`GraphPlotter` inherits from `DocReader`) and **Dependency** (`GraphPlotter` has `CounterSepartor`).
 
 ## ⚙️ Installation & Setup
 
