@@ -48,14 +48,18 @@ To run this project, you need Python and the `matplotlib` library.
 
 ## 📂 Project Structure
 
-.
-├── main.py             \# Entry point of the application
-├── app.py              \# Contains the main App class
-├── Doc\_Reader.py       \# Class to handle file dialog and reading
-├── Counter\_V1.py       \# Class to count alphabet frequencies
-├── Graph\_Plotting.py   \# Class to plot the data
-└── README.md           \# This file
-
+📁 Alphabet-Frequency-Counter/
+│
+├── 📄 .gitignore
+├── 📄 README.md
+├── 📄 requirements.txt
+│
+└── 📁 src/
+    ├── 📄 main.py
+    ├── 📄 app.py
+    ├── 📄 Counter_V1.py
+    ├── 📄 Doc_Reader.py
+    └── 📄 Graph_Plotting.py
 
 
 ## Class Responsibilities
