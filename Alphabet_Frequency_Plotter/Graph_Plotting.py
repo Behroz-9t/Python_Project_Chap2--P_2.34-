@@ -14,7 +14,7 @@ class GraphPlotter(DocumentReader):
         self.reader()  #then the reader function is initiated
         if self._content!=[]:   #check for the empty _content attribute
            
-            _trigger=CounterSepartor(self._content)  #instantiated CounterSeparatoe class 
+            _trigger=CounterSepartor(self._content)  #instantiated CounterSeparatoe class ---> COMPOSITION
             
             self._count=_trigger.m_Count()    #calling of its functions 
             self._labels=_trigger.m_Keys()    #calling of its functions
