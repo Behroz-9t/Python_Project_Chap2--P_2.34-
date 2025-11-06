@@ -47,7 +47,7 @@ To run this project, you need Python and the `matplotlib` library.
 3.  After you select a file and close the dialog, a new window will appear displaying the bar chart of the alphabet frequencies found in your file.
 
 ## 📂 Project Structure
-
+```
 📁 Alphabet-Frequency-Counter/
 │
 ├── 📄 .gitignore
@@ -60,7 +60,7 @@ To run this project, you need Python and the `matplotlib` library.
     ├── 📄 Counter_V1.py
     ├── 📄 Doc_Reader.py
     └── 📄 Graph_Plotting.py
-
+```
 
 ## Class Responsibilities
 
